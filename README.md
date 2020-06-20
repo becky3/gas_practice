@@ -14,3 +14,4 @@ https://tonari-it.com/google-apps-script-manual/#toc1
 |[【初心者向けGAS】スクリプト実行時の「承認」でびっくりしないために](https://tonari-it.com/gas-script-approval/)|[gas-script-approval.gs](gas-script-approval.gs)|
 |[【初心者向けGAS】Spreadsheetサービスの「オブジェクト」の基礎の基礎を知ろう](https://tonari-it.com/gas-spreadsheet-object/)|[gas-spreadsheet-object.gs](gas-spreadsheet-object.gs)|
 |[【初心者向けGAS】スプレッドシートのシートを取得する２つの方法](https://tonari-it.com/gas-spreadsheet-get-sheet/)|[gas-spreadsheet-get-sheet.gs](gas-spreadsheet-get-sheet.gs)|
+|[【初心者向けGAS】スプレッドシートのセル・セル範囲とその値を取得する方法](https://tonari-it.com/gas-spreadsheet-range-value-values/)|[gas-spreadsheet-range-value-values.gs](gas-spreadsheet-range-value-values.gs)|
