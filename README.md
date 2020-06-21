@@ -18,3 +18,4 @@ https://tonari-it.com/google-apps-script-manual/#toc1
 |[for文を使ったスプレッドシートの繰り返しの超基本](https://tonari-it.com/gas-for/)|[gas-for.gs](gas-for.gs)|
 |[条件分岐をするif文の使い方の超基本](https://tonari-it.com/gas-if/)|[gas-if.gs](gas-if.gs)|
 |[スプレッドシートのセルに値を入力する基礎の基礎](https://tonari-it.com/gas-setvalue/)|[gas-setvalue.gs](gas-setvalue.gs)|
+|[条件に応じてループを制御する2つの方法～break文とwhile文～](https://tonari-it.com/gas-loop-break-while/)|[gas-loop-break-while.gs](gas-loop-break-while.gs)|
