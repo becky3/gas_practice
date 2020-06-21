@@ -16,3 +16,4 @@ https://tonari-it.com/google-apps-script-manual/#toc1
 |[スプレッドシートのシートを取得する２つの方法](https://tonari-it.com/gas-spreadsheet-get-sheet/)|[gas-spreadsheet-get-sheet.gs](gas-spreadsheet-get-sheet.gs)|
 |[スプレッドシートのセル・セル範囲とその値を取得する方法](https://tonari-it.com/gas-spreadsheet-range-value-values/)|[gas-spreadsheet-range-value-values.gs](gas-spreadsheet-range-value-values.gs)|
 |[for文を使ったスプレッドシートの繰り返しの超基本](https://tonari-it.com/gas-for/)|[gas-for.gs](gas-for.gs)|
+|[条件分岐をするif文の使い方の超基本](https://tonari-it.com/gas-if/)|[gas-if.gs](gas-if.gs)|
