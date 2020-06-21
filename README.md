@@ -20,3 +20,4 @@ https://tonari-it.com/google-apps-script-manual/#toc1
 |[スプレッドシートのセルに値を入力する基礎の基礎](https://tonari-it.com/gas-setvalue/)|[gas-setvalue.gs](gas-setvalue.gs)|
 |[条件に応じてループを制御する2つの方法～break文とwhile文～](https://tonari-it.com/gas-loop-break-while/)|[gas-loop-break-while.gs](gas-loop-break-while.gs)|
 |[スプレッドシートのセル範囲を行数・列数を使って取得する](https://tonari-it.com/gas-getrange-row-column/)|[gas-getrange-row-column.gs](gas-getrange-row-column.gs)|
+|[スプレッドシートのセル範囲をクリアするいくつかの方法](https://tonari-it.com/gas-spreadsheet-range-clear-clearcontent/)|[gas-spreadsheet-range-clear-clearcontent.gs](gas-spreadsheet-range-clear-clearcontent.gs)|
